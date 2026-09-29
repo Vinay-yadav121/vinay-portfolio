@@ -4,10 +4,11 @@ A personal portfolio website showcasing my skills, projects, learning journey, a
 
 ## About the Project
 
-This portfolio is being developed as part of my learning journey and frontend AI engineering internship.
+## About the Project
 
-The goal is to create a clean, responsive, and professional website that presents my technical skills, projects, certifications, and development experience.
+This portfolio is being developed as part of my learning journey and Frontend AI Engineering internship.
 
+It serves as a central place to showcase my projects, technical skills, certifications, DSA practice, and professional development.
 ## Tech Stack
 
 - React
@@ -49,3 +50,14 @@ portfolio/
 ├── package.json
 ├── package-lock.json
 └── vite.config.js
+
+## Project Workflow
+
+When working on this project:
+
+1. Review the existing implementation before making changes.
+2. Keep changes focused on the requested task.
+3. Avoid modifying unrelated components.
+4. Run the application after significant changes.
+5. Verify that the UI works as expected.
+6. Use clear Conventional Commit messages for Git changes.
