@@ -41,3 +41,14 @@ Before making significant changes:
 3. Make the smallest reasonable change.
 4. Avoid changing unrelated files.
 5. Check that the project still works after the change.
+
+## Project Workflow
+
+When working on this project:
+
+1. Review the existing implementation before making changes.
+2. Keep changes focused on the requested task.
+3. Avoid modifying unrelated files.
+4. Run the application after significant changes.
+5. Verify that the UI works as expected.
+6. Use clear Conventional Commit messages for Git changes.
